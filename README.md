@@ -27,8 +27,4 @@ A mobile-responsive, 3D simulation of the solar system built using Three.js and 
 - JavaScript (ES6+)
 
 
-<<<<<<< HEAD
 Made with ❤️ By Ritesh kumar
-=======
-By Ritesh kumar
->>>>>>> 4c0a990 (commit)
