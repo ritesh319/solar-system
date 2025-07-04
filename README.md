@@ -1,6 +1,6 @@
 # 🌍 3D Solar System Simulation
 
-A mobile-responsive, 3D simulation of the solar system built using Three.js and vanilla JavaScript.
+A mobile-responsive, 3D simulation of the solar system built using Three.js, HTML, CSS and JavaScript.
 
 ## 🎯 Features
 - Realistic 3D models of the Sun and 8 planets
